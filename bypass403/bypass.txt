@@ -1,6 +1,0 @@
-curl -i -s -k -X $'GET' -H $'Host: domain.com' -H $'X-rewrite-url: path/' $'https:www.domain.com/'
-curl -i -k -s -X 'GET' https://domain.com/pathwith403/
-curl -H "Content-Length:0" -X POST https://domain.com/pathwith403/
-
-
-
